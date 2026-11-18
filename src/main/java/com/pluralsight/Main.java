@@ -39,6 +39,7 @@ public class Main {
                 return null;
             }
         };
+        Cash cash = new Cash("money", "10/12/2005", new BigDecimal(1000000.00));
 
 
         // Create house objects
